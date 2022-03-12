@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x41B763561643a952C4134F78c1665B9355e65abb",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x41B763561643a952C4134F78c1665B9355e65abb",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",      
+    "ID": 137
+  },
+  "NFT_NAME": "Dolphin NFT's ",
+  "SYMBOL": "DNFT",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.6,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/0xd03ec19eab08ba9a06c489bfd84e9907f86c88ec",
+  "SHOW_BACKGROUND": true
+}
